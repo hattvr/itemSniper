@@ -1,0 +1,6 @@
+configparser
+requests
+lxml
+bs4
+colorama
+multiprocessing
