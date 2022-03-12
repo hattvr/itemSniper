@@ -1,0 +1,13 @@
+[2020-12-07 19:46:51] Failed to purchase 24826737. Reasoning: NotForSale!
+[2020-12-10 16:41:41] Failed to purchase 124472052. Reasoning: PriceChanged!
+[2020-12-10 16:41:41] Failed to purchase 124472052. Reasoning: PriceChanged!
+[2020-12-10 16:41:42] Failed to purchase 124472052. Reasoning: PriceChanged!
+[2020-12-10 16:21:54] Failed to purchase 44113968. Reasoning: PriceChanged!
+[2020-12-10 16:21:54] Failed to purchase 44113968. Reasoning: PriceChanged!
+[2020-12-10 16:21:54] Failed to purchase 44113968. Reasoning: PriceChanged!
+[2020-12-10 14:10:43] Failed to purchase 19398258. Reasoning: PriceChanged!
+[2020-12-10 14:10:43] Failed to purchase 19398258. Reasoning: PriceChanged!
+[2020-12-10 14:10:44] Failed to purchase 19398258. Reasoning: PriceChanged!
+[2020-12-10 14:32:22] Failed to purchase 19398258. Reasoning: PriceChanged!
+[2020-12-10 14:32:22] Failed to purchase 19398258. Reasoning: PriceChanged!
+[2020-12-10 14:32:22] Failed to purchase 19398258. Reasoning: PriceChanged!
